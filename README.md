@@ -1,4 +1,4 @@
-# scrapy-energisa
+# scrapy-bolsa
 Exemplo de Web Scraping com o framework Scrapy.
 
 Como utilizar:
